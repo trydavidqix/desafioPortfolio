@@ -8,22 +8,6 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
-      },
-      {
-        "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/ts.png"
-      },
-      {
-        "name": "ReactJS",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/react.png"
-      },
-      {
-        "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/nodejs.png"
-      },
-      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/html.png"
       },
@@ -32,12 +16,28 @@
         "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/css.png"
       },
       {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/git.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
+      },
+      {
+        "name": "ReactJS",
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/react.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/ts.png"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/nodejs.png"
       },
       {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/github.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/git.png"
       },
       {
         "name": "VScode",
