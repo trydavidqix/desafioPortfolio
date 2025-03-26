@@ -1,7 +1,7 @@
 {
   "name": "David Macêdo",
   "photo": "https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4",
-  "job": "Engenharia de Software",
+  "job": "Software Engineering student",
   "location": "Ovar, Portugal",
   "phone": "(+351) 910390394",
   "email": "davidqix@live.com",
@@ -49,18 +49,18 @@
       }
     ],
     "softSkills": [
-      "Organização",
-      "Comunicação",
-      "Pontualidade",
-      "Responsabilidade",
-      "Ética",
-      "Trabalho em equipe"
+      "Organization",
+      "Communication",
+      "Punctuality",
+      "Responsibility",
+      "Ethics",
+      "Teamwork"
     ]
   },
   "languages": [
     "Português (Nativo)"
   ],
-  "portfolio": [
+  "Portfolio": [
     {
       "name": "Github",
       "url": "https://github.com/trydavidqix",
@@ -69,14 +69,15 @@
   ],
   "professionalExperience": [
     {
-      "name": "Professor de Musculação",
-      "period": "14/11/2022 – Atual",
-      "description": "Planejamento e acompanhamento de treinos personalizados. Atendimento ao público e suporte técnico para exercícios físicos. Desenvolvimento de estratégias para melhoria do desempenho dos alunos."
+      "name": "Strength Training Instructor",
+      "period": "11/14/2022 – Present",
+      "description": "Planning and monitoring personalized workout routines. Customer service and technical support for physical exercises. Developing strategies to improve students' performance."
+
     },
     {
-      "name": "Professor de Musculação",
-      "period": "06/11/2018 – 01/09/2022",
-      "description": "Auxílio na adaptação de novos alunos na academia. Desenvolvimento de planos de treino específicos para diferentes objetivos. Trabalho em equipe para proporcionar um ambiente motivador e produtivo."
+      "name": "Strength Training Instructor",
+      "period": "11/06/2018 – 09/01/2022",
+      "description": "Assisting new students in adapting to the gym. Developing workout plans tailored to different goals. Teamwork to provide a motivating and productive environment."
     }
   ]
 }
