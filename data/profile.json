@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/html.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/css.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "ReactJS",
@@ -29,19 +29,19 @@
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/nodejs.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/nodejs.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/github.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/github.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/git.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/git.png"
       },
       {
         "name": "VScode",
-        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/vscode.png"
+        "logo": "https://github.com/trydavidqix/desafioPortfolio/blob/main/data/imgs/vscode.png"
       },
       {
         "name": "Figma",
