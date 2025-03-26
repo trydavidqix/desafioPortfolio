@@ -61,14 +61,14 @@
     "Portuguese (Native)",
     "English (Intermediate)"
   ],  
-  "Portfolio": [
+  "portfolio": [
     {
       "name": "Github",
       "url": "https://github.com/trydavidqix",
       "github": true
     }
   ],
-  "professionalExperience": [
+  "professionalExperience": [ 
     {
       "name": "Strength Training Instructor",
       "period": "14/11/2022 – Present",
