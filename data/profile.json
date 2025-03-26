@@ -1,0 +1,83 @@
+{
+  "name": "David Macêdo",
+  "photo": "https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4",
+  "job": "Engenharia de Software",
+  "location": "Ovar, Portugal",
+  "phone": "(+351) 910390394",
+  "email": "davidqix@live.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/ts.png"
+      },
+      {
+        "name": "ReactJS",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/react.png"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/nodejs.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/css.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/github.png"
+      },
+      {
+        "name": "VScode",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/vscode.png"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/figma.png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Pontualidade",
+      "Responsabilidade",
+      "Ética",
+      "Trabalho em equipe"
+    ]
+  },
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Nível A2)"
+  ],
+  "portfolio": [
+    {
+      "name": "Github",
+      "url": "https://github.com/trydavidqix",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Professor de Musculação",
+      "period": "14/11/2022 – Atual",
+      "description": "Planejamento e acompanhamento de treinos personalizados. Atendimento ao público e suporte técnico para exercícios físicos. Desenvolvimento de estratégias para melhoria do desempenho dos alunos."
+    },
+    {
+      "name": "Professor de Musculação",
+      "period": "06/11/2018 – 01/09/2022",
+      "description": "Auxílio na adaptação de novos alunos na academia. Desenvolvimento de planos de treino específicos para diferentes objetivos. Trabalho em equipe para proporcionar um ambiente motivador e produtivo."
+    }
+  ]
+}
